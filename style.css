@@ -1,0 +1,67 @@
+h1{
+  font-size: 40px;
+}
+
+#navbar{
+  position:fixed;
+  margin-top:-10px;
+  left:50%;
+  margin-left:-254px;
+}
+
+li {
+  display: inline;
+  font-size: 20px;
+  font-family: Verdana; 
+  float:top;
+}
+body{
+  background-color: gray;
+}
+a{
+  font-family: cursive;
+  position: top;
+}
+
+span{
+  color: black;
+}
+
+h2{
+  font-family: cursive;
+}
+
+img{
+  align:center;
+}
+
+#float{
+  float:right;
+  clear:left;
+  list-style: inside;
+  border: solid;
+  border-radius: 5px;
+  height: 300px;
+  width: 250px;
+}
+
+.latest{
+  border: solid;
+  border-radius: 5px; 
+  height: 300px;
+  width: 250px;
+  background-color: white;
+  float: left;
+  clear:right;
+  
+}
+
+
+div p{
+  font-family: cursive;
+  font-size: 35px;
+   
+}
+.inline{
+  display: inline;
+}
